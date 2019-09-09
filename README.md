@@ -27,6 +27,6 @@ Sorting order is as follows:
 
 The maximum number of rows and columns will be specified on the command line as follows (to be included along with mpirun)
 
-sort2d2 <inputfile> <outputfile> <maxrows> <maxcolumns>
+    sort2d2 <inputfile> <outputfile> <maxrows> <maxcolumns>
 
 The output is in a single file in the same format as the input, except the keys are listed finally in row major order.
